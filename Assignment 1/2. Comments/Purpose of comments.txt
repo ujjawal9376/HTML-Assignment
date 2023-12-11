@@ -1,0 +1,2 @@
+﻿Explain the purpose of comments in HTML ?
+Comments are useful when you want to  write something about the code but you do not want to run that or show in the output. Developers often use comments to explain the purpose of functionality of certain code blocks , making it easier for themselves or others to understand the codebase. Comments can act as reminders for future modifications or improvements to the code.

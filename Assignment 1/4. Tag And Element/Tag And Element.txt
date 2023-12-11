@@ -1,0 +1,16 @@
+﻿Short note on Tag and element 
+Tag:
+HTML uses a system of “Tags” to define the structure and layout of web pages. Tags are the building blocks of html documents and consist of angel brackets enclosing specific keywords. “<> </>”. 
+For Example:
+Opening Tag: <tag name>
+Closing Tag:  </tag name>
+
+
+
+
+Element:
+An HTML element is a component of an HTML document that tells a web browser how to structure and interpret a part of the HTML document. HTML elements can contain formatting instructions, semantic meaning, and content.
+
+
+For Example:
+<tag name> content </tag name>

@@ -1,0 +1,4 @@
+﻿DOCTYPE Declaration in  HTML :
+We start the file with  “<!DOCTYPE html>” .
+It tells the browser what type of document to expect ; in this case it is an html document. It helps the browsers to display web pages correctly. It is not case sensitive.
+The most common declaration, <!DOCTYPE html>, indicates the use of HTML5, the latest version of HTML.
