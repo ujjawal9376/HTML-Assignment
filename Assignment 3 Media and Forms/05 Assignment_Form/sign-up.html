@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign-up Form</title>
+</head>
+
+<body>
+    <form action="#">
+        <label for="fname">First Name:
+            <input type="text" name="fname" id="fname" placeholder="Enter First Name" required minlength="3"
+                maxlength="20">
+        </label>
+        <br>
+        <label for="lname">Last Name:
+            <input type="text" name="lname" id="lname" placeholder="Enter Last Name" required minlength="3"
+                maxlength="20">
+        </label>
+        <br>
+        <label for="email">Enter Email:
+            <input type="email" name="email" id="email" placeholder="Enter Your Email" required>
+        </label>
+        <br>
+        <label for="password">Password:
+            <input type="password" name="password" id="password" placeholder="Enter Your Password" required>
+        </label>
+        <br>
+        <label for="confirmPassword">Confirm Password:
+            <input type="password" name="confirmPassword" id="confirmPassword" placeholder="Enter Confirm Password"
+                required>
+        </label>
+        <br>
+        <label for="age">Enter Age:
+            <input type="number" name="age" id="age" placeholder="Enter Your Age" required min="0" max="150">
+        </label>
+        <br>
+        <label for="">Gender:
+            <input type="radio" name="gender" value="Male" id="male" checked>
+            <label for="male">Male</label>
+            <input type="radio" name="gender" value="female" id="female">
+            <label for="female">Female:</label>
+            <input type="radio" name="gender" value="other" id="other">
+            <label for="other">Other:</label>
+        </label>
+        <br>
+
+        <label for="terms">Terms:
+            <input type="checkbox" id="terms" required>I agree to terms and conditions
+        </label>
+        <br>
+        <button type="submit">Register</button>
+    </form>
+</body>
+
+</html>
