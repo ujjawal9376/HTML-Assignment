@@ -1,0 +1,6 @@
+﻿Q.1 What is SEO and explain the importance of SEO?
+Ans. SEO means Search Engine Optimization and is the process used to optimize a website's technical configuration, content relevance and link popularity so its pages can become easily findable, more relevant and popular towards user search queries, and as a consequence, search engines rank them better.
+
+Importance of SEO – Meta tags are important for SEO because they provide information to search engines about the content on your site and can help improve your website's visibility and ranking in search engine results pages.
+SEO is crucial because it makes your website more visible,and that means more traffic and more opportunities to convert prospects into customers.
+
